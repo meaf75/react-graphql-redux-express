@@ -1,0 +1,1 @@
+export const TitleColor = '#ff6d6d'
